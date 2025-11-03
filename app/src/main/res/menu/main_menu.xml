@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_add_note"
+        android:title="Sukurti užrašą" />
+    <item
+        android:id="@+id/menu_delete_note"
+        android:title="Ištrinti užrašą" />
+</menu>
